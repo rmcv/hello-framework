@@ -1,0 +1,4 @@
+.DS_Store
+/dist/
+xnode_modules/
+yarn-error.log
